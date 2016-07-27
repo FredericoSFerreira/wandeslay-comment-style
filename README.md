@@ -7,5 +7,6 @@ Sua reação ao ver essa pagina: Cê besta!
 
 1 -  //Varre todos links desta **vizão** procurado por seus filtros
 
+2 - // Salva um html na pasta temp -> **notificaceos**, com o log e para quais emails não foram disparado
 
 
