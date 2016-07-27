@@ -9,4 +9,6 @@ Sua reação ao ver essa pagina: Cê besta!
 
 2 - // Salva um html na pasta temp -> **notificaceos**, com o log e para quais emails não foram disparado
 
+3 - //Quando for grid **dinamcio** pega a formatação da linha de valores
+
 
