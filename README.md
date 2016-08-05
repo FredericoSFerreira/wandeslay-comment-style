@@ -11,4 +11,8 @@ Sua reação ao ver essa pagina: Cê besta!
 
 3 - //Quando for grid **dinamcio** pega a formatação da linha de valores
 
+4 - //Efetua os change habilitando e desabilitando os itens relacionados ao tipo de **agendamente** selecionado
+
+5 -//$("#tipo_**agentamento**_cache").on("change", function() {
+
 
