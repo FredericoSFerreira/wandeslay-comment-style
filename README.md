@@ -13,6 +13,6 @@ Sua reação ao ver essa pagina: Cê besta!
 
 4 - //Efetua os change habilitando e desabilitando os itens relacionados ao tipo de **agendamente** selecionado
 
-5 -//$("#tipo_**agentamento**_cache").on("change", function() {
+5 - //$("#tipo_**agentamento**_cache").on("change", function() {
 
 
